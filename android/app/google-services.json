@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732852375784",
+    "project_id": "spendle-d4bd0",
+    "storage_bucket": "spendle-d4bd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732852375784:android:991ef1b5d0b3d4473db95d",
+        "android_client_info": {
+          "package_name": "com.example.monyx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIPDkm7j79atj5cryRycj6HBDT_1EWcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
